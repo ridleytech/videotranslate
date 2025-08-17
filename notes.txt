@@ -1,0 +1,60 @@
+https://ckeditor.com/docs/ckeditor5/latest/installation/frameworks/react.html
+https://codepen.io/MaratKh/pen/oKXxvV
+https://www.npmjs.com/package/react-dropdown
+https://www.geeksforgeeks.org/file-uploading-in-react-js/
+https://stackoverflow.com/questions/55830414/how-to-read-text-file-in-react
+https://contactmentor.com/how-to-add-loading-spinner-react-js/?expand_article=1
+https://stackoverflow.com/questions/41462606/get-all-files-recursively-in-directories-nodejs
+
+
+console.log(
+  "three sum",
+  new Solution().threeSumBruteForce([-1, 0, 1, 2, -4, -3])
+);
+
+
+Complete CI/CD with React and AWS | Deploy React app to AWS Elastic Beanstalk | DevOps | Cloud
+
+https://www.youtube.com/watch?v=spA3jJYi6Q4
+
+docker config
+
+create and start container
+
+docker run -it -v ${PWD}:/app -p 3000:3000 node:14 sh
+
+or run previously setup container
+
+docker exec -it e7f8282c5e703e5689cdf260ba64b67d35afb42a76561b600ef34554c3dcd50b bash (dev)
+docker exec -it 8997acb1efc6a246f19b67d791ee3fd6bad631f476ed70735e45aeff0ccfcdc7 bash (build)
+docker exec -it 1aceb316c097faeaa98c038d036090906578bb8ca8e070d6398d6b143639f67c bash 
+docker exec -it cd30e6c18a3dceb76a8fe0edfc05266aa4640199c2633e2789ba4d261094131f bash 
+
+
+
+change directory
+
+cd app
+
+add files to app directory
+
+run app locally
+
+npm start
+
+browse http://localhost:3000
+
+build files
+
+docker-compose up --build
+
+browse http://localhost
+
+https://github.com/KubeKode/DevOps-Projects/tree/Docker-compose-CI/CD-AWS-Beanstalk
+
+redeploy
+
+https://dev.to/achukka/build-and-test-react-app-with-github-actions-2jb2
+https://stackoverflow.com/questions/22832447/why-every-time-elastic-beanstalk-issues-a-command-to-its-instance-it-always-time
+https://github.com/docker/build-push-action
+https://github.com/einaregilsson/beanstalk-deploy/issues/86
